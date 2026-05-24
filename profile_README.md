@@ -1,7 +1,7 @@
 # Hi, I'm Zokirjon Karimov 👋
 
 **Student** at Moscow College of Business Career (MKDK)  
-Group **2-ISiП-9-2024** · Information Systems and Programming
+Group **2-ИСиП-9-2024** · Information Systems and Programming
 
 📧 yupiterbolshoy@gmail.com
 
